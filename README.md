@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Kapil Sharma
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning React.js and Vue.js
-- 💞️ I’m looking to collaborate on react, freecodecamp, material
 - 📫 How to reach me
    - Linkedin - https://www.linkedin.com/in/kapil-sharma-a089b1144/
    - Gmail - ksharma120497@gmail.com
