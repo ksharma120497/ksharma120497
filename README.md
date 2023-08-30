@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Kapil Sharma
+- Summer Internships 2024 SDE
 - 📫 How to reach me
    - Linkedin - https://www.linkedin.com/in/kapil-sharma-a089b1144/
    - Gmail - ksharma120497@gmail.com
