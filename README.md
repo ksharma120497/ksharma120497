@@ -26,18 +26,22 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 **Master of Science in Computer Science**  
 (Expected Graduation: May 2025)
 
-- Diving deep into advanced topics such as machine learning, artificial intelligence, and software development.
-- Engaging in hands-on projects and collaborative research to apply theoretical knowledge in practical scenarios.
-- Benefiting from a dynamic research environment and a rigorous curriculum.
+**Courses:**
+- Advanced Object Oriented Programming
+- Foundations of Machine Learning
+- Foundations of Algorithms
+- Foundations of Computer Vision
 
 ### University of Mumbai
 **Bachelor of Engineering in Electronics & Telecommunications**  
 (August 2015 - June 2019)
 
-- Developed a solid grounding in engineering principles with a focus on electronics and telecommunications.
-- Participated in various technical projects and competitions, fostering a passion for software development and problem-solving.
-- Acquired a strong analytical mindset and the foundation for my future endeavors in technology.
-
+**Courses:**
+- Foundations of Object Oriented Programming
+- Computer Networks
+- Operating Systems
+- Neural Networks
+- Signal Processing
 
 
 ## Experience
