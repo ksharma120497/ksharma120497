@@ -8,13 +8,13 @@ Hi there! I'm Kapil Sharma, a passionate and dedicated Software Development Engi
 
 With a strong foundation in engineering, I ventured into the professional world, joining Accenture as a fresh graduate. Over the years, I honed my skills, moving from an Associate Software Development Engineer to a Software Development Engineer II. During this time, I worked on diverse projects, from modernizing legacy systems to developing high-performance web applications, always with a focus on creating efficient and scalable solutions.
 
-My quest for knowledge and excellence didn't stop there. In pursuit of deeper understanding and greater challenges, I decided to further my education. Currently, I am a Master's student at the Rochester Institute of Technology, delving into advanced topics in Computer Science. Balancing my studies with hands-on projects, I strive to bridge the gap between theoretical knowledge and practical application.
-
 My professional experience spans across companies like Lowe's and Accenture, where I've been instrumental in developing and deploying critical software solutions. At Lowe's, I built a sophisticated payment dashboard interface using Next.js, which now aids 8000 vendors in tracking their payments and finances. At Accenture, I played a key role in optimizing data processing systems and modernizing web applications, significantly improving their performance and user experience.
 
-Beyond my professional life, I am a keen researcher. One of my notable projects involved Bayesian Image Segmentation, where I worked as a Research Assistant at RIT. This project allowed me to push the boundaries of computer vision, experimenting with algorithms on a massive dataset of over 10,000 images.
-
 I believe in continuous learning and sharing knowledge. As a mentor, I have trained over 20 associates in React.js, helping them upskill and grow in their careers. My contributions have been recognized with prestigious awards, such as the ‘Pinnacle Award’ at Accenture.
+
+My quest for knowledge and excellence didn't stop there. In pursuit of deeper understanding and greater challenges, I decided to further my education. Currently, I am a Master's student at the Rochester Institute of Technology, delving into advanced topics in Computer Science. Balancing my studies with hands-on projects, I strive to bridge the gap between theoretical knowledge and practical application.
+
+Beyond my professional life, I am a keen researcher. One of my notable projects involved Bayesian Image Segmentation, where I worked as a Research Assistant at RIT. This project allowed me to push the boundaries of computer vision, experimenting with algorithms on a massive dataset of over 10,000 images.
 
 When I'm not coding or researching, you can find me exploring new technologies, writing on my tech blog, or watching Soccer (FC Barcelona Fan). ⚽
 
