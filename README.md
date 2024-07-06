@@ -1,8 +1,8 @@
-# Welcome to Kapil Sharma's GitHub Repository
+# Welcome to Kapil Sharma's GitHub Repository 🎉
 
 Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing in full-stack development. Welcome to my GitHub repository where I share my projects, experiences, and insights in the world of software engineering.
 
-## My Story
+## My Story 📖
 
 Hi there! I'm Kapil Sharma, a passionate and dedicated Software Development Engineer with a love for full-stack development. My journey in the world of technology began in the bustling city of Mumbai, where I earned my Bachelor's degree in Electronics & Telecommunications from the University of Mumbai.
 
@@ -16,11 +16,11 @@ Beyond my professional life, I am a keen researcher. One of my notable projects 
 
 I believe in continuous learning and sharing knowledge. As a mentor, I have trained over 20 associates in React.js, helping them upskill and grow in their careers. My contributions have been recognized with prestigious awards, such as the ‘Pinnacle Award’ at Accenture.
 
-When I'm not coding or researching, you can find me exploring new technologies, writing on my tech blog, or watching Soccer (FC Barcelona Fan).
+When I'm not coding or researching, you can find me exploring new technologies, writing on my tech blog, or watching Soccer (FC Barcelona Fan). ⚽
 
-Feel free to dive into my projects, and don’t hesitate to reach out if you’d like to collaborate or just have a tech chat!
+Feel free to dive into my projects, and don’t hesitate to reach out if you’d like to collaborate or just have a tech chat! 💬
 
-## Education
+## Education 🎓
 
 ### Rochester Institute of Technology (RIT)
 **Master of Science in Computer Science**  (Expected Graduation: May 2025)
@@ -41,8 +41,7 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 - Neural Networks
 - Signal Processing
 
-
-## Experience
+## Experience 💼
 
 ### Lowe’s (Jun 2022 - Aug 2023)
 **Software Development Engineer II**
@@ -64,7 +63,7 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 **Associate Software Development Engineer**
 - Designed and implemented 15+ company-specific UI components using React.js, ensuring consistent user interface across all applications and improving development efficiency by 25%.
 
-## Skills
+## Skills 🛠️
 
 ### Programming Languages:
 - Java
@@ -98,8 +97,7 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 - Android
 - gRPC
 
-
-## Projects
+## Projects 🚀
 
 ### Bayesian Image Segmentation (2024)
 - Worked as a Research Assistant at RIT to utilize Gradio to create a front-end for seamless interaction with image segmentation algorithms, and designed experiments on 10,000+ images to advance computer vision research.
@@ -108,19 +106,14 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 - Researched on the vehicle's OBD port and engine to find out relations between 50 different parameters of the vehicle to predict the breakdown of the vehicle and driving patterns.
 - Developed an Android application using Android Studio that displays graphs from Matplotlib saved on AWS S3 and can display it for users.
 
-## Leadership and Achievements
+## Leadership and Achievements 🏆
 - Trained & mentored over 20+ company associates in React.js which assisted in employee upskilling.
 - Awarded with ‘Pinnacle Award’ by Accenture in the Rising Star category given across 1000 teams for having huge impact in lesser time.
 
-## Connect with Me
+## Connect with Me 🌐
 - [Email](mailto:ks4643@rit.edu)
 - [Blog](https://curositech.wordpress.com/)
 - [LinkedIn](https://www.linkedin.com/in/kapil-b-sharma/)
 - [GitHub](https://github.com/ksharma120497)
 
 Feel free to explore my projects and get in touch if you have any questions or opportunities for collaboration. Thank you for visiting!
-
-<!---
-ksharma120497/ksharma120497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
