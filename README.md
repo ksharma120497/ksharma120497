@@ -16,7 +16,7 @@ Beyond my professional life, I am a keen researcher. One of my notable projects 
 
 I believe in continuous learning and sharing knowledge. As a mentor, I have trained over 20 associates in React.js, helping them upskill and grow in their careers. My contributions have been recognized with prestigious awards, such as the ‘Pinnacle Award’ at Accenture.
 
-When I'm not coding or researching, you can find me exploring new technologies, writing on my tech blog, or watching Soccer.
+When I'm not coding or researching, you can find me exploring new technologies, writing on my tech blog, or watching Soccer (FC Barcelona Fan).
 
 Feel free to dive into my projects, and don’t hesitate to reach out if you’d like to collaborate or just have a tech chat!
 
