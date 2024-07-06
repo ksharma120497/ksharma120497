@@ -23,8 +23,7 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 ## Education
 
 ### Rochester Institute of Technology (RIT)
-**Master of Science in Computer Science**  
-(Expected Graduation: May 2025)
+**Master of Science in Computer Science**  (Expected Graduation: May 2025)
 
 **Courses:**
 - Advanced Object Oriented Programming
@@ -33,8 +32,7 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 - Foundations of Computer Vision
 
 ### University of Mumbai
-**Bachelor of Engineering in Electronics & Telecommunications**  
-(August 2015 - June 2019)
+**Bachelor of Engineering in Electronics & Telecommunications**  (August 2015 - June 2019)
 
 **Courses:**
 - Foundations of Object Oriented Programming
