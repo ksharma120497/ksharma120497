@@ -2,7 +2,7 @@
 
 Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing in full-stack development. Welcome to my GitHub repository where I share my projects, experiences, and insights in the world of software engineering.
 
-## About Me
+## My Story
 
 Hi there! I'm Kapil Sharma, a passionate and dedicated Software Development Engineer with a love for full-stack development. My journey in the world of technology began in the bustling city of Mumbai, where I earned my Bachelor's degree in Electronics & Telecommunications from the University of Mumbai.
 
@@ -16,7 +16,7 @@ Beyond my professional life, I am a keen researcher. One of my notable projects 
 
 I believe in continuous learning and sharing knowledge. As a mentor, I have trained over 20 associates in React.js, helping them upskill and grow in their careers. My contributions have been recognized with prestigious awards, such as the ‘Pinnacle Award’ at Accenture.
 
-When I'm not coding or researching, you can find me exploring new technologies, writing on my tech blog, or connecting with fellow tech enthusiasts on LinkedIn and GitHub. 
+When I'm not coding or researching, you can find me exploring new technologies, writing on my tech blog, or watching Soccer.
 
 Feel free to dive into my projects, and don’t hesitate to reach out if you’d like to collaborate or just have a tech chat!
 
