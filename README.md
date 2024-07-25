@@ -20,27 +20,6 @@ When I'm not coding or researching, you can find me exploring new technologies, 
 
 Feel free to dive into my projects, and don’t hesitate to reach out if you’d like to collaborate or just have a tech chat! 💬
 
-## Education 🎓
-
-### Rochester Institute of Technology (RIT)
-**Master of Science in Computer Science**  (Expected Graduation: May 2025)
-
-**Courses:**
-- Advanced Object Oriented Programming
-- Foundations of Machine Learning
-- Foundations of Algorithms
-- Foundations of Computer Vision
-
-### University of Mumbai
-**Bachelor of Engineering in Electronics & Telecommunications**  (August 2015 - June 2019)
-
-**Courses:**
-- Foundations of Object Oriented Programming
-- Computer Networks
-- Operating Systems
-- Neural Networks
-- Signal Processing
-
 ## Experience 💼
 
 ### Lowe’s (Jun 2022 - Aug 2023)
@@ -62,6 +41,27 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 
 **Associate Software Development Engineer**
 - Designed and implemented 15+ company-specific UI components using React.js, ensuring consistent user interface across all applications and improving development efficiency by 25%.
+
+## Education 🎓
+
+### Rochester Institute of Technology (RIT)
+**Master of Science in Computer Science**  (Expected Graduation: May 2025)
+
+**Courses:**
+- Advanced Object Oriented Programming
+- Foundations of Machine Learning
+- Foundations of Algorithms
+- Foundations of Computer Vision
+
+### University of Mumbai
+**Bachelor of Engineering in Electronics & Telecommunications**  (August 2015 - June 2019)
+
+**Courses:**
+- Foundations of Object Oriented Programming
+- Computer Networks
+- Operating Systems
+- Neural Networks
+- Signal Processing
 
 ## Skills 🛠️
 
