@@ -4,7 +4,7 @@ Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing
 
 ## My Story 📖
 
-Hi there! I'm Kapil Sharma, a passionate and dedicated Software Development Engineer with a love for full-stack development. My journey in the world of technology began in the bustling city of Mumbai, where I earned my Bachelor's degree in Electronics & Telecommunications from the University of Mumbai.
+Hi there! I'm Kapil Sharma, a passionate and dedicated Software Development Engineer with a love for full-stack development. My journey in the world of technology began i Mumbai, where I earned my Bachelor's degree in Electronics & Telecommunications from the University of Mumbai.
 
 With a strong foundation in engineering, I ventured into the professional world, joining Accenture as a fresh graduate. Over the years, I honed my skills, moving from an Associate Software Development Engineer to a Software Development Engineer II. During this time, I worked on diverse projects, from modernizing legacy systems to developing high-performance web applications, always with a focus on creating efficient and scalable solutions.
 
