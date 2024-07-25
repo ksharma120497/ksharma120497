@@ -42,6 +42,15 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 **Associate Software Development Engineer**
 - Designed and implemented 15+ company-specific UI components using React.js, ensuring consistent user interface across all applications and improving development efficiency by 25%.
 
+## Projects 🚀
+
+### Bayesian Image Segmentation (2024)
+- Worked as a Research Assistant at RIT to utilize Gradio to create a front-end for seamless interaction with image segmentation algorithms, and designed experiments on 10,000+ images to advance computer vision research.
+
+### Cloud based Vehicle Monitoring and Driver Behavior System (2019)
+- Researched on the vehicle's OBD port and engine to find out relations between 50 different parameters of the vehicle to predict the breakdown of the vehicle and driving patterns.
+- Developed an Android application using Android Studio that displays graphs from Matplotlib saved on AWS S3 and can display it for users.
+
 ## Education 🎓
 
 ### Rochester Institute of Technology (RIT)
@@ -96,15 +105,6 @@ Feel free to dive into my projects, and don’t hesitate to reach out if you’d
 - Grafana
 - Android
 - gRPC
-
-## Projects 🚀
-
-### Bayesian Image Segmentation (2024)
-- Worked as a Research Assistant at RIT to utilize Gradio to create a front-end for seamless interaction with image segmentation algorithms, and designed experiments on 10,000+ images to advance computer vision research.
-
-### Cloud based Vehicle Monitoring and Driver Behavior System (2019)
-- Researched on the vehicle's OBD port and engine to find out relations between 50 different parameters of the vehicle to predict the breakdown of the vehicle and driving patterns.
-- Developed an Android application using Android Studio that displays graphs from Matplotlib saved on AWS S3 and can display it for users.
 
 ## Leadership and Achievements 🏆
 - Trained & mentored over 20+ company associates in React.js which assisted in employee upskilling.
