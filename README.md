@@ -6,10 +6,13 @@ Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing
 
 ### Lowe’s (Jun 2022 - Aug 2023)
 **Software Development Engineer II**
-- Built Lowe's payment dashboard interface in Next.js for 8000 Vendors that tracks payments and finances.
-- Developed and deployed over 10 RESTful APIs using Java Spring Boot on Google Cloud Platform.
-- Integrated Apache Kafka topics in backend to stream messages between 20 teams inside the company for smooth data pipelining.
-- Incorporated middleware in Node.js and Express.js for migrating user authentication and authorization process from SAML to ForgeRock SSO.
+- Built Lowe's payment dashboard interface using Next.js, providing 8000 vendors with a reliable tool to track payments and finances, resulting in enhanced financial tracking capabilities.
+-	Developed and deployed over 10 RESTful APIs using Java Spring Boot on Google Cloud Platform instances, improving system functionality and API performance.
+-	Incorporated middleware in Node.js and Express.js to migrate user authentication and authorization from SAML to ForgeRock SSO, enhancing user authentication processes and system security.
+-	Collaborated across teams to integrate Apache Kafka, ensuring smooth data pipelining between 20 teams, resulting in a 15% improvement in data transfer efficiency.
+-	Implemented a new log analysis strategy using Kibana’s advanced querying capabilities (KQL), reducing average log investigation time from 2 hours to 1.5 hours, enhancing the team’s ability to resolve incidents faster.
+-	Monitored server health by creating and maintaining Grafana Dashboards that tracked over 10 critical metrics, including CPU usage, memory allocation, and requests per minute, leading to a 20% reduction in system downtime and a 15% increase in server performance.
+
 
 ### Accenture (Aug 2019 - Jun 2022)
 **Software Development Engineer II**
