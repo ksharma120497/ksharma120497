@@ -56,11 +56,6 @@ Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing
 
 ## Skills 🛠️
 
-![image](https://github.com/user-attachments/assets/84a95e53-f1a0-465e-81fe-52abcae93129)
-![image](https://github.com/user-attachments/assets/8d1db4cf-84a2-46fc-9ba9-02a63cd04b94)
-
-
-
 ### Programming Languages:
 - Java
 - JavaScript (ES6+)
