@@ -43,13 +43,17 @@ Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahulbanerjee26&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ksharma120497&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksharma120497" />
 </a>
 
 ## Connect with Me 🌐
+<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" / href= "https://github.com/">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" / href="https://youtube.com/">
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/>
 ![Spring](mailto:ks4643@rit.edu)
 - [Blog](https://curositech.wordpress.com/)
 - [LinkedIn](https://www.linkedin.com/in/kapil-b-sharma/)
