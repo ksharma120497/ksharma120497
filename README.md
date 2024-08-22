@@ -42,7 +42,7 @@ Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ## Connect with Me 🌐
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)(mailto:ks4643@rit.edu)
+![Spring](mailto:ks4643@rit.edu)
 - [Blog](https://curositech.wordpress.com/)
 - [LinkedIn](https://www.linkedin.com/in/kapil-b-sharma/)
 - [GitHub](https://github.com/ksharma120497)
