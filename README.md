@@ -41,10 +41,6 @@ Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-## Leadership and Achievements 🏆
-- Trained & mentored over 20+ company associates in React.js which assisted in employee upskilling.
-- Awarded with ‘Pinnacle Award’ by Accenture in the Rising Star category given across 1000 teams for having huge impact in lesser time.
-
 ## Connect with Me 🌐
 - [Email](mailto:ks4643@rit.edu)
 - [Blog](https://curositech.wordpress.com/)
