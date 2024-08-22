@@ -43,12 +43,8 @@ Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing
 
 
 ## Connect with Me 🌐
-<img align="center" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href= "https://github.com/ksharma120497">
-<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"  href="https://youtube.com/">
-<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
-<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/>
-
-- [Email](mailto:ks4643@rit.edu)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+](mailto:ks4643@rit.edu)
 - [Blog](https://curositech.wordpress.com/)
 - [LinkedIn](https://www.linkedin.com/in/kapil-b-sharma/)
 - [GitHub](https://github.com/ksharma120497)
