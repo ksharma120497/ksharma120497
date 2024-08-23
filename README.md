@@ -1,7 +1,11 @@
-# Welcome to Kapil's GitHub Repository 🎉
+#  Hey There :wave:
 
-Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing in full-stack development. Welcome to my GitHub repository where I share my projects, experiences, and insights in the world of software engineering.
+Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing in React.js and Java. I worked on lots of exciting projects in my 4 years of experience at Accenture and Lowe's. I am currently purusing my Master's Degree in Computer Science from Rochester Institute of Technology and will be graduating in May 2025. 
 
+At Lowe's, I have trained many of my colleagues, teaching them fundamentals of React.js which was recorded and shared across many teams. I also mainatin a [blog](https://curositech.wordpress.com/) where I share things that I have learned from my experience. I was lucky enough to be awarded with the Pinnacle Award which is a company wide award that was given out to employees exceeding the expectations.
+
+Outside the programmer's world, my alter ego loves to Trek (recently been to Smoky Mountains), play and watch Soccer (FC Barcelona Fan) and write screenplays or short stories which I publish on a separate blog. My current favorite non fiction book is The Psychology of Money by Morgan Housel and my all time favorite is the classic Frankenstein by Mary Shelley.
+ 
 
 ## Skills 🛠️
 
