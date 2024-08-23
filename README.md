@@ -90,7 +90,5 @@ When I'm not coding, you can find me:
 ](https://www.linkedin.com/in/kapil-b-sharma/)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ](https://curositech.wordpress.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-](https://github.com/ksharma120497)
 
 Feel free to explore my projects and get in touch if you have any questions or opportunities for collaboration. Thank you for visiting!
