@@ -1,6 +1,6 @@
 #  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-![image](https://github.com/user-attachments/assets/22ec4974-6905-4209-8ad9-8cb751fd4094)
+![image](https://github.com/user-attachments/assets/525bdff0-7cfe-4738-b7a5-a0ae62a886a9)
 
 
 ## 👨‍💻 Who am I?
@@ -84,7 +84,6 @@ When I'm not coding, you can find me:
 
 
 ## 🤝 Let’s Connect!
-I love connecting with like-minded individuals and exchanging ideas. Feel free to reach out to me via:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:ks4643@rit.edu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
