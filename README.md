@@ -1,11 +1,5 @@
 #  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-# 🚀 Kapil Sharma's Project Repository
-
-Welcome to my GitHub repository! I'm Kapil Sharma, a Software Development Engineer with a passion for crafting elegant code and innovative solutions. This repository is a collection of some of the projects I've worked on, combining my expertise in **React.js**, **Java**, and various other technologies.
-
----
-
 ## 🌟 About Me
 
 👨‍💻 **Who am I?**  
@@ -43,6 +37,7 @@ I'm always eager to learn new technologies and methodologies. Currently, I'm div
 - **Microservices Architecture**
 - **Distributed Systems**
 - **Advanced Cloud Solutions with AWS**
+- **Computer Networks**
 
 ---
 
@@ -62,21 +57,8 @@ When I'm not coding, you can find me:
 - **Writing:** I enjoy crafting screenplays and short stories, which I publish on a separate blog.
 
 ---
-
-## 🤝 Let’s Connect!
-
-I love connecting with like-minded individuals and exchanging ideas. Feel free to reach out to me via:
-- **LinkedIn:** [Kapil Sharma](https://www.linkedin.com/in/kapilsharma)
-- **Email:** kapil.sharma@example.com
-
----
-
-Thanks for stopping by! I hope you find my projects interesting and inspiring. If you do, consider giving them a ⭐ and let’s stay in touch!
-
-
  
-
-## Skills 🛠️
+## 🛠️ Skills 
 
 ### Technical Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -114,8 +96,10 @@ Thanks for stopping by! I hope you find my projects interesting and inspiring. I
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
+---
 
-## Connect with Me 🌐
+## 🤝 Let’s Connect!
+I love connecting with like-minded individuals and exchanging ideas. Feel free to reach out to me via:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:ks4643@rit.edu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
