@@ -1,10 +1,10 @@
 #  Hey There :wave:
 
-Hello! I'm Kapil Sharma, a passionate Software Development Engineer specializing in React.js and Java. I worked on lots of exciting projects in my 4 years of experience at Accenture and Lowe's. I am currently purusing my Master's Degree in Computer Science from Rochester Institute of Technology and will be graduating in May 2025. 
+Hello! I'm Kapil Sharma, a passionate Software Development Engineer with a focus on React.js and Java. Over the past four years, I've had the opportunity to work on several exciting projects at Accenture and Lowe's. Currently, I'm pursuing my Master’s Degree in Computer Science at the Rochester Institute of Technology, with an expected graduation in May 2025.
 
-At Lowe's, I have trained many of my colleagues, teaching them fundamentals of React.js which was recorded and shared across many teams. I also mainatin a [blog](https://curositech.wordpress.com/) where I share things that I have learned from my experience. I was lucky enough to be awarded with the Pinnacle Award which is a company wide award that was given out to employees exceeding the expectations.
+During my time at Lowe's, I had the privilege of training many colleagues in the fundamentals of React.js, with my sessions being recorded and shared across multiple teams. I also maintain a [blog](https://curositech.wordpress.com/) where I share insights and experiences from my professional journey. I was honored to receive the Pinnacle Award, a company-wide recognition given to employees who consistently exceed expectations.
 
-Outside the programmer's world, my alter ego loves to Trek (recently been to Smoky Mountains), play and watch Soccer (FC Barcelona Fan) and write screenplays or short stories which I publish on a separate blog. My current favorite non fiction book is The Psychology of Money by Morgan Housel and my all time favorite is the classic Frankenstein by Mary Shelley.
+Outside of programming, I enjoy trekking (I recently visited the Smoky Mountains), playing and watching soccer (a dedicated FC Barcelona fan), and writing screenplays or short stories, which I publish on a separate blog. My current favorite non-fiction book is The Psychology of Money by Morgan Housel, and my all-time favorite is the classic Frankenstein by Mary Shelley.
  
 
 ## Skills 🛠️
