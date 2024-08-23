@@ -1,4 +1,4 @@
-#  Hey There :wave:
+#  Hey There <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 Hello! I'm Kapil Sharma, a passionate Software Development Engineer with a focus on React.js and Java. Over the past four years, I've had the opportunity to work on several exciting projects at Accenture and Lowe's. Currently, I'm pursuing my Master’s Degree in Computer Science at the Rochester Institute of Technology, with an expected graduation in May 2025.
 
