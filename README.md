@@ -4,60 +4,8 @@
 
 👨‍💻 **Who am I?**  
 I'm currently pursuing a Master's in Computer Science at Rochester Institute of Technology, with a graduation date of May 2025. With 4+ years of experience at Accenture and Lowe's, I've tackled numerous projects that span from frontend to backend development.
-
-🛠️ **My Specialties:**  
-- **Frontend:** React.js, Next.js, TypeScript
-- **Backend:** Java, Spring, Node.js
-- **Cloud:** AWS Certified Developer – Associate
-- **DevOps:** Docker, Kubernetes, CI/CD pipelines
-- **Databases:** MySQL, MongoDB, PostgreSQL
-
-🎓 **Education:**  
-- Master’s Degree in Computer Science, Rochester Institute of Technology (Expected May 2025)
-- Bachelor of Engineering in Electronics & Telecommunications, University of Mumbai
-
 ---
 
-## 📂 Project Highlights
-
-### 🛒 [Lowe's Payment Dashboard](https://github.com/kapilsharma/lowes-payment-dashboard)
-A powerful dashboard built with **Next.js** and **GraphQL**, designed to streamline financial tracking for over 8,000 vendors. This project reduced processing time by 30% and improved data accuracy.
-
-### 🛠️ [React.js Fundamentals Training](https://github.com/kapilsharma/react-training)
-A comprehensive training module I developed and conducted at Lowe's, which was recorded and distributed across multiple teams, reducing onboarding time by 15%.
-
-### 🌍 [Personal Blog: CurosiTech](https://curositech.wordpress.com/)
-I maintain a blog where I share my thoughts, experiences, and tutorials on various technologies, including detailed walkthroughs and project postmortems.
-
----
-
-## 🌱 What I’m Learning
-
-I'm always eager to learn new technologies and methodologies. Currently, I'm diving deeper into:
-- **Microservices Architecture**
-- **Distributed Systems**
-- **Advanced Cloud Solutions with AWS**
-- **Computer Networks**
-
----
-
-## 📚 Book Recommendations
-
-I believe that learning never stops, and books are a great way to fuel your passion. Here are a couple of my favorite reads:
-- **Current Favorite:** *The Psychology of Money* by Morgan Housel
-- **All-Time Favorite:** *Frankenstein* by Mary Shelley
-
----
-
-## 🏞️ Hobbies & Interests
-
-When I'm not coding, you can find me:
-- **Trekking:** Just explored the Smoky Mountains 🌄
-- **Soccer:** Lifelong FC Barcelona fan ⚽
-- **Writing:** I enjoy crafting screenplays and short stories, which I publish on a separate blog.
-
----
- 
 ## 🛠️ Skills 
 
 ### Technical Skills:
@@ -97,6 +45,47 @@ When I'm not coding, you can find me:
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ---
+
+## 📂 Project Highlights
+
+### 🛒 Lowe's Payment Dashboard
+A powerful dashboard built with **Next.js** and **GraphQL**, designed to streamline financial tracking for over 8,000 vendors. This project reduced processing time by 30% and improved data accuracy.
+
+### 🛠️ React.js Fundamentals Training
+A comprehensive training module I developed and conducted at Lowe's, which was recorded and distributed across multiple teams, reducing onboarding time by 15%.
+
+### 🌍 [Personal Blog: CurosiTech](https://curositech.wordpress.com/)
+I maintain a blog where I share my thoughts, experiences, and tutorials on various technologies, including detailed walkthroughs and project postmortems.
+
+---
+
+## 🌱 What I’m Learning
+
+I'm always eager to learn new technologies and methodologies. Currently, I'm diving deeper into:
+- **Microservices Architecture**
+- **Distributed Systems**
+- **Advanced Cloud Solutions with AWS**
+- **Computer Networks**
+
+---
+
+## 📚 Book Recommendations
+
+I believe that learning never stops, and books are a great way to fuel your passion. Here are a couple of my favorite reads:
+- **Current Favorite:** *The Psychology of Money* by Morgan Housel
+- **All-Time Favorite:** *Frankenstein* by Mary Shelley
+
+---
+
+## 🏞️ Hobbies & Interests
+
+When I'm not coding, you can find me:
+- **Trekking:** Just explored the Smoky Mountains 🌄
+- **Soccer:** Lifelong FC Barcelona fan ⚽
+- **Writing:** I enjoy crafting screenplays and short stories, which I publish on a separate blog.
+
+---
+
 
 ## 🤝 Let’s Connect!
 I love connecting with like-minded individuals and exchanging ideas. Feel free to reach out to me via:
