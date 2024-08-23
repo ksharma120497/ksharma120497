@@ -1,6 +1,6 @@
-#  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-![image](https://github.com/user-attachments/assets/525bdff0-7cfe-4738-b7a5-a0ae62a886a9)
+<img align="center" src="https://github.com/user-attachments/assets/687cd412-7d41-4f02-8a72-86ada4847ef7"/>
+
 
 
 ## 👨‍💻 Who am I?
