@@ -1,10 +1,9 @@
 #  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-## 🌟 About Me
-
-👨‍💻 **Who am I?**  
+## 👨‍💻 Who am I?
+ 
 I'm currently pursuing a Master's in Computer Science at Rochester Institute of Technology, with a graduation date of May 2025. With 4+ years of experience at Accenture and Lowe's, I've tackled numerous projects that span from frontend to backend development.
----
+
 
 ## 🛠️ Skills 
 
@@ -44,8 +43,6 @@ I'm currently pursuing a Master's in Computer Science at Rochester Institute of 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
----
-
 ## 📂 Project Highlights
 
 ### 🛒 Lowe's Payment Dashboard
@@ -57,8 +54,6 @@ A comprehensive training module I developed and conducted at Lowe's, which was r
 ### 🌍 [Personal Blog: CurosiTech](https://curositech.wordpress.com/)
 I maintain a blog where I share my thoughts, experiences, and tutorials on various technologies, including detailed walkthroughs and project postmortems.
 
----
-
 ## 🌱 What I’m Learning
 
 I'm always eager to learn new technologies and methodologies. Currently, I'm diving deeper into:
@@ -67,7 +62,6 @@ I'm always eager to learn new technologies and methodologies. Currently, I'm div
 - **Advanced Cloud Solutions with AWS**
 - **Computer Networks**
 
----
 
 ## 📚 Book Recommendations
 
@@ -75,7 +69,6 @@ I believe that learning never stops, and books are a great way to fuel your pass
 - **Current Favorite:** *The Psychology of Money* by Morgan Housel
 - **All-Time Favorite:** *Frankenstein* by Mary Shelley
 
----
 
 ## 🏞️ Hobbies & Interests
 
@@ -83,8 +76,6 @@ When I'm not coding, you can find me:
 - **Trekking:** Just explored the Smoky Mountains 🌄
 - **Soccer:** Lifelong FC Barcelona fan ⚽
 - **Writing:** I enjoy crafting screenplays and short stories, which I publish on a separate blog.
-
----
 
 
 ## 🤝 Let’s Connect!
