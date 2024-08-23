@@ -1,5 +1,8 @@
 #  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
+![image](https://github.com/user-attachments/assets/22ec4974-6905-4209-8ad9-8cb751fd4094)
+
+
 ## 👨‍💻 Who am I?
  
 Hello! I'm Kapil Sharma, a passionate Software Development Engineer with a focus on React.js and Java. Over the past four years, I've had the opportunity to work on several exciting projects at Accenture and Lowe's. Currently, I'm pursuing my Master’s Degree in Computer Science at the Rochester Institute of Technology, with an expected graduation in May 2025.
