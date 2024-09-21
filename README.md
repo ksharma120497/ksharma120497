@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Who am I?
  
-Hello! I'm Kapil Sharma, a passionate Software Development Engineer with a focus on React.js and Java. Over the past four years, I've had the opportunity to work on several exciting projects at Accenture and Lowe's. Currently, I'm pursuing my Master’s Degree in Computer Science at the Rochester Institute of Technology, with an expected graduation in May 2025.
+Hello! I'm Kapil Sharma, a passionate Software Development Engineer with a focus on React.js and Java. Over the past four years, I've had the opportunity to work on several exciting projects at Accenture and Lowe's. Currently, I'm pursuing my Master’s Degree in Computer Science at the Rochester Institute of Technology, with an expected graduation in May 2025
 
 During my time at Lowe's, I had the privilege of training many colleagues in the fundamentals of React.js, with my sessions being recorded and shared across multiple teams. I also maintain a blog where I share insights and experiences from my professional journey. I was honored to receive the Pinnacle Award, a company-wide recognition given to employees who consistently exceed expectations.
 
