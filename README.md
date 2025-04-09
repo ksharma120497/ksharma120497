@@ -5,12 +5,11 @@
 
 ## 👨‍💻 Who am I?
  
-Hello! I'm Kapil Sharma, a passionate Software Development Engineer with a focus on React.js and Java. Over the past four years, I've had the opportunity to work on several exciting projects at Accenture and Lowe's. Currently, I'm pursuing my Master’s Degree in Computer Science at the Rochester Institute of Technology, with an expected graduation in May 2025
+Hi, I’m Kapil Sharma — a software engineer with 4+ years of experience building scalable web applications using React.js, Java, and Spring Boot. I've contributed to enterprise systems in the fintech and retail domains during my time at Accenture and Lowe’s.
 
-During my time at Lowe's, I had the privilege of training many colleagues in the fundamentals of React.js, with my sessions being recorded and shared across multiple teams. I also maintain a blog where I share insights and experiences from my professional journey. I was honored to receive the Pinnacle Award, a company-wide recognition given to employees who consistently exceed expectations.
+Currently pursuing my MS in Computer Science at RIT (graduating May 2025), I’m focused on deepening my understanding of system design, backend architecture, and modern frontend tooling. At Lowe’s, I also led React.js training sessions for cross-functional teams, and was proud to receive the Pinnacle Award for performance and impact.
 
-
-
+Outside of work, I enjoy writing technical blogs and sharing what I learn along the way.
 
 ## 🛠️ Skills 
 
@@ -50,39 +49,13 @@ During my time at Lowe's, I had the privilege of training many colleagues in the
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-## 📂 Project Highlights
-
-### 🛒 Lowe's Payment Dashboard
-A powerful dashboard built with **Next.js** and **GraphQL**, designed to streamline financial tracking for over 8,000 vendors. This project reduced processing time by 30% and improved data accuracy.
-
-### 🛠️ React.js Fundamentals Training
-A comprehensive training module I developed and conducted at Lowe's, which was recorded and distributed across multiple teams, reducing onboarding time by 15%.
-
-### 🌍 [Personal Blog: CurosiTech](https://curositech.wordpress.com/)
-I maintain a blog where I share my thoughts, experiences, and tutorials on various technologies, including detailed walkthroughs and project postmortems.
-
 ## 🌱 What I’m Learning
 
 I'm always eager to learn new technologies and methodologies. Currently, I'm diving deeper into:
 - **Microservices Architecture**
 - **Distributed Systems**
-- **Advanced Cloud Solutions with AWS**
+- **Advanced Cloud Solutions**
 - **Computer Networks**
-
-
-## 📚 Book Recommendations
-
-I believe that learning never stops, and books are a great way to fuel your passion. Here are a couple of my favorite reads:
-- **Current Favorite:** *The Psychology of Money* by Morgan Housel
-- **All-Time Favorite:** *Frankenstein* by Mary Shelley
-
-
-## 🏞️ Hobbies & Interests
-
-When I'm not coding, you can find me:
-- **Trekking:** Just explored the Smoky Mountains 🌄
-- **Soccer:** Lifelong FC Barcelona fan ⚽
-- **Writing:** I enjoy crafting screenplays and short stories, which I publish on a separate blog.
 
 
 ## 🤝 Let’s Connect!
@@ -94,8 +67,3 @@ When I'm not coding, you can find me:
 ](https://curositech.wordpress.com/)
 
 Feel free to explore my projects and get in touch if you have any questions or opportunities for collaboration. Thank you for visiting!
-
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksharma120497&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksharma120497)](https://github.com/ksharma120497/github-readme-stats)
