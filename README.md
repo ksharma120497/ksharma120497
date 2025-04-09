@@ -10,6 +10,8 @@ Hello! I'm Kapil Sharma, a passionate Software Development Engineer with a focus
 During my time at Lowe's, I had the privilege of training many colleagues in the fundamentals of React.js, with my sessions being recorded and shared across multiple teams. I also maintain a blog where I share insights and experiences from my professional journey. I was honored to receive the Pinnacle Award, a company-wide recognition given to employees who consistently exceed expectations.
 
 
+
+
 ## 🛠️ Skills 
 
 ### Technical Skills:
@@ -92,3 +94,6 @@ When I'm not coding, you can find me:
 ](https://curositech.wordpress.com/)
 
 Feel free to explore my projects and get in touch if you have any questions or opportunities for collaboration. Thank you for visiting!
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksharma120497&show_icons=true&theme=transparent)
