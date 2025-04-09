@@ -97,3 +97,5 @@ Feel free to explore my projects and get in touch if you have any questions or o
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksharma120497&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksharma120497)](https://github.com/ksharma120497/github-readme-stats)
